@@ -8,7 +8,7 @@ The Sales director has asked data analyst to design a sales dashboard that analy
 The dataset in file E-Commerce Dashboard dataset.xlsx contains sales data for different product categories.
 
 **Tools**
-Excel (Data Analysis Add-in)
+Excel (Data Analysis Add-in & Combo box)
 
 **Source Code for excel**
 A table of Sales and Profit month-wise linked with combo box
